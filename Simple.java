@@ -1,5 +1,4 @@
-# mydir
-sample program
+
 class Simple
 {
 public static void main(String args[])
